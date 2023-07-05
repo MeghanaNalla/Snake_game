@@ -1,0 +1,27 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#restartButton {
+  background-color: #4CAF50; /* Green background color */
+  border: none; /* Remove border */
+  color: white; /* Text color */
+  padding: 10px 20px; /* Add padding */
+  text-align: center; /* Center align text */
+  text-decoration: none; /* Remove underline */
+  display: inline-block; Make it an inline element */
+  font-size: 16px; /* Set font size */
+  cursor: pointer; /* Add cursor pointer on hover */
+}
+
+#restartButton {
+    visibility: visible;
+    /* Add other button styles as needed */
+  }
+  
+  #restartButton.clicked {
+    visibility: visible;
+    /* Add other button styles when clicked */
+  }
+  
