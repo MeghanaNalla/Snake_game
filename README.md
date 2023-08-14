@@ -15,6 +15,6 @@ Use the arrow keys to move the snake. Eat food pellets to grow longer. Don't col
 * Self collision detection
 
 <h2>Play the game</h2>
-[Visit our website](https://meghananalla.github.io/Snake_game)
+(https://meghananalla.github.io/Snake_game)
 
 
